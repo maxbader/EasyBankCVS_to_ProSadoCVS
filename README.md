@@ -1,5 +1,6 @@
 # EasyBankCVS_to_ProSadoCVS
-This Python script converts a CSV extracted form the Easy Bank App to a ProSado readable CSV
+This Python script converts a CSV extracted form Austrian / Österreich the Easy Bank App to a ProSado readable CSV. 
+It will most likey also work with the BAWAG Bank
 
 ## Usage
 1. Open your easybank account
